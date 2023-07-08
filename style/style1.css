@@ -1,0 +1,31 @@
+.container-jumbotron{
+    padding-top: 2rem;
+    background-color: rgb(39, 48, 54);
+    color: aliceblue;
+}
+.display-4{
+    font-size: 3rem;
+}
+.jumbotron .lead{
+    font-size: 1.4rem;
+}
+.card-link{
+    text-decoration: none;
+    color: rgb(255,140,0);
+}
+@media screen and (max-width: 768px){
+    #about{
+        display: flex;
+        justify-content: center;
+    }
+}
+.container-slider{
+    background-color: rgb(39, 48, 54);
+}
+.text-slider{
+    color: aliceblue;
+    font-size: 1.4rem;
+}
+.timeline{
+    background-color: rgb(39, 48, 54);
+}
